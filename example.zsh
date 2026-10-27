@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
-# S.EE — curl -sL https://z.sh/example | zsh
+# S.EE
+# curl -sL https://z.sh/example | zsh
 
 if [[ -t 1 && -z ${NO_COLOR:-} ]]; then
   B=$'\e[1m'; D=$'\e[2m'; C=$'\e[36m'; M=$'\e[35m'; G=$'\e[32m'; Y=$'\e[33m'; R=$'\e[0m'
