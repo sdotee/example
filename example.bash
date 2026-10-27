@@ -22,7 +22,7 @@ printf '%s' "$R"
 printf '  %sHello from S.EE!%s  👋\n\n' "$B$M" "$R"
 printf '  %sShort links, files and text — all on one short domain.%s\n\n' "$D" "$R"
 
-printf '  %s🔗 URL Shortener%s   Turn long URLs into s.ee/xxx, with custom domains & stats\n' "$G$B" "$R"
+printf '  %s🔗 URL Shortener%s   Turn long URLs into s.ee/example, with custom domains & stats\n' "$G$B" "$R"
 printf '  %s📁 File Hosting%s    Upload and share files with a single link\n' "$G$B" "$R"
 printf '  %s📝 Text Sharing%s    Paste code, logs and notes — share instantly\n' "$G$B" "$R"
 printf '  %s⚡ API & Clients%s   REST API, CLI, browser extensions and more\n\n' "$G$B" "$R"

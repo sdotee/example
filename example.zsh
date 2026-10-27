@@ -23,7 +23,7 @@ print -r -- "  ${B}${M}Hello from S.EE!${R}  👋"
 print
 print -r -- "  ${D}Short links, files and text — all on one short domain.${R}"
 print
-print -r -- "  ${G}${B}🔗 URL Shortener${R}   Turn long URLs into s.ee/xxx, with custom domains & stats"
+print -r -- "  ${G}${B}🔗 URL Shortener${R}   Turn long URLs into s.ee/example, with custom domains & stats"
 print -r -- "  ${G}${B}📁 File Hosting${R}    Upload and share files with a single link"
 print -r -- "  ${G}${B}📝 Text Sharing${R}    Paste code, logs and notes — share instantly"
 print -r -- "  ${G}${B}⚡ API & Clients${R}   REST API, CLI, browser extensions and more"
